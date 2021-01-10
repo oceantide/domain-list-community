@@ -1,0 +1,258 @@
+# This list contains domains that don't have access point in China mainland. This is opposite to geolocation-cn.
+
+# TLDs (Top Level Domains) used outside China mainland
+include:tld-!cn
+
+# Advertisment & Analytics
+include:pubmatic
+include:taboola
+
+# Anti-censorship & Anti-GFW & Privacy protection & VPN tools
+include:category-anticensorship
+
+# Art & Design & Photography
+include:artstation
+include:dribbble
+include:dyna
+include:flickr
+include:fonts
+include:fontsinuse
+include:gettyimages
+include:glyphs
+include:jiyukobo
+include:monotype
+include:morisawa
+include:pinterest
+include:realtype
+include:typenetwork
+include:typography
+include:webtype
+
+# Automobile
+include:bmw
+include:bridgestone
+include:tesla
+include:volvo
+
+# Bank & Finance
+include:mastercard
+include:paypal
+include:softbank
+include:stripe
+include:visa
+
+# CDN companies & Services
+include:akamai
+include:cloudflare
+include:fastly
+include:imgix
+include:pagecdn
+include:quantil
+include:stackpath
+
+# Certificate authorities
+include:category-cas
+
+# Communications
+include:discord
+include:freenode
+include:line
+include:signal
+include:slack
+include:telegram
+
+# Cryptocurrency
+include:category-cryptocurrency
+
+# E-commerce
+include:adidas
+include:bestbuy
+include:booking
+include:costco
+include:craigslist
+include:dmm
+include:ebay
+include:farfetch
+include:gfashion
+include:gucci
+include:hm
+include:homedepot
+include:ikea
+include:miniso
+include:muji
+include:nike
+include:nordstrom
+include:shopee
+include:target
+include:walmart
+
+# E-learning & Knowledge & Press & Scholar & Science & Technology
+include:betterexplained
+include:brilliant
+include:category-scholar-!cn
+include:cern
+include:chinapower
+include:code
+include:codecademy
+include:coursera
+include:edx
+include:egghead
+include:freecodecamp
+include:khanacademy
+include:knovel
+include:laracasts
+include:masterclass
+include:mzed
+include:oreilly
+include:sitepoint
+include:skillshare
+include:ted
+include:udacity
+include:udemy
+include:w3schools
+
+# Entertainment & Games & Music & Podcasts & Videos
+include:category-entertainment
+
+# File host & Image host
+include:0x0
+include:dropbox
+include:gfycat
+include:imgur
+include:streamable
+
+# Forums
+include:4chan
+include:5ch
+include:avsforum
+include:dcard
+include:doom9
+include:hkgolden
+include:lihkg
+include:pincong
+include:quora
+include:reddit
+
+# Media & News & Press
+include:category-media
+
+# Organizations
+include:category-orgs
+
+# Porn
+include:category-porn
+
+# Services & Softwares
+include:accuweather
+include:adblock
+include:adblockplus
+include:addthis
+include:addtoany
+include:adguard
+include:apkpure
+include:arphic
+include:bitly
+include:bitwarden
+include:blender
+include:brightcove
+include:buymeacoffee
+include:cloudconvert
+include:contentful
+include:cuttly
+include:digitalocean
+include:disqus
+include:duckduckgo
+include:easylist
+include:entermediadb
+include:esri
+include:evernote
+include:faststone
+include:feedly
+include:figma
+include:gofundme
+include:gravatar
+include:hcaptcha
+include:heroku
+include:iina
+include:infrapedia
+include:inoreader
+include:isgd
+include:jwplayer
+include:kindle4rss
+include:kodi
+include:liberapay
+include:linguee
+include:madshi
+include:mapbox
+include:mega
+include:mpv
+include:netlify
+include:notion
+include:ok
+include:opencollective
+include:osdn
+include:parler
+include:pastebin
+include:patreon
+include:picsee
+include:pingpe
+include:protonmail
+include:quip
+include:reabble
+include:rebrandly
+include:reurl
+include:rsshub
+include:sb
+include:setapp
+include:sharethis
+include:shopify
+include:shorturl
+include:sourceforge
+include:startpage
+include:steemit
+include:svp
+include:test-ipv6
+include:tex
+include:tidelift
+include:tinyurl
+include:trello
+include:tumblr
+include:vercel
+include:webflow
+include:wix
+include:wordpress
+include:zendesk
+include:zeplin
+include:zoho
+include:zoom
+
+# Software development
+include:category-dev
+
+# Tech companies
+include:category-companies
+
+# VPN services
+include:category-vpnservices
+
+# Wiki
+include:fandom
+include:miraheze
+include:scp
+include:translatewiki
+include:wikidot
+include:wikihow
+include:wikimedia
+
+# Others
+include:familymart
+include:hkedcity
+include:huanghuagang
+include:mcdonalds
+include:rarbg
+include:rb
+include:starbucks
+include:tsquare
+include:windy
+include:xdty
+include:xingrz
