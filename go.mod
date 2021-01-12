@@ -1,4 +1,4 @@
-module github.com/v2fly/domain-list-community
+module github.com/oceantide/domain-list-community
 
 go 1.15
 
@@ -7,4 +7,4 @@ require (
 	v2ray.com/core v4.19.1+incompatible
 )
 
-replace v2ray.com/core => github.com/v2fly/v2ray-core v0.0.0-20201225111350-8c5b392f2763
+replace v2ray.com/core => github.com/oceantide/v2ray-core v0.0.0-20201225111350-8c5b392f2763

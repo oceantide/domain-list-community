@@ -167,9 +167,9 @@ github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5
 github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd0=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
-github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848/go.mod h1:p80Bv154ZtrGpXMN15slDCqc9UGmfBuUzheDFBYaW/M=
-github.com/v2fly/v2ray-core v0.0.0-20201225111350-8c5b392f2763 h1:QWaQvEQ/no11CIHVILijBmCPDj++okilh2OeYI8fPq0=
-github.com/v2fly/v2ray-core v0.0.0-20201225111350-8c5b392f2763/go.mod h1:yLKblj+9Q2Qwy5WxujQ0T477h7SpNwTycKYbETSrlk4=
+github.com/oceantide/VSign v0.0.0-20201108000810-e2adc24bf848/go.mod h1:p80Bv154ZtrGpXMN15slDCqc9UGmfBuUzheDFBYaW/M=
+github.com/oceantide/v2ray-core v0.0.0-20201225111350-8c5b392f2763 h1:QWaQvEQ/no11CIHVILijBmCPDj++okilh2OeYI8fPq0=
+github.com/oceantide/v2ray-core v0.0.0-20201225111350-8c5b392f2763/go.mod h1:yLKblj+9Q2Qwy5WxujQ0T477h7SpNwTycKYbETSrlk4=
 github.com/viant/assertly v0.4.8/go.mod h1:aGifi++jvCrUaklKEKT0BU95igDNaqkvz+49uaYMPRU=
 github.com/viant/toolbox v0.24.0/go.mod h1:OxMCG57V0PXuIP2HNQrtJf2CjqdmbrOx5EkMILuUhzM=
 go.opencensus.io v0.18.0/go.mod h1:vKdFvxhtzZ9onBp9VKHK8z/sRpBMnKAsufL7wlDrCOA=
